@@ -1,6 +1,6 @@
 # interfone_digital
 
-A new Flutter project.
+Projeto para criação de um app que funciona como interfone/portaria digital em condomínios.
 
 ## Getting Started
 
